@@ -1,5 +1,8 @@
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=28&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Kien+Phan!;💻+Fullstack+Developer;🎓+Student+at+HCMUT;🚀+Always+learning+new+things!" alt="Typing SVG" />
+  <img 
+    src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Kien+Phan!;💻+Fullstack+Developer;🎓+Student+at+HCMUT;🚀+Always+Learning+New+Things!" 
+    alt="Typing SVG" 
+  />
 </h1>
 
 ---
