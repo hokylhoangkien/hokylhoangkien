@@ -2,7 +2,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * *" # Chạy mỗi ngày lúc 00:00 UTC
   workflow_dispatch:
 
 jobs:
@@ -14,6 +14,11 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # cần full commit history để tạo grid đúng
+
+      - name: Create output directory
+        run: mkdir -p dist
 
       - name: Generate Snake SVG
         uses: Platane/snk/svg-only@v3
@@ -22,6 +27,13 @@ jobs:
           outputs: |
             dist/github-contribution-grid-snake.svg
             dist/github-contribution-grid-snake-dark.svg
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Verify output files
+        run: |
+          echo "📂 Nội dung thư mục dist:"
+          ls -la dist || echo "❌ Không tìm thấy file nào!"
 
       - name: Push to output branch
         uses: peaceiris/actions-gh-pages@v3
@@ -29,4 +41,5 @@ jobs:
           github_token: ${{ secrets.GITHUB_TOKEN }}
           publish_branch: output
           publish_dir: dist
-          force_orphan: true # 💡 thêm dòng này
+          force_orphan: true
+          commit_message: "🐍 Generate snake animation"
