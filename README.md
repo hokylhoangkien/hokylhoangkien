@@ -1,6 +1,7 @@
-<!-- Kiên’s Dynamic GitHub Profile -->
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=👋+Xin+chào,+tôi+là+Kiên!;💻+Fullstack+Developer;🎓+Sinh+viên+Bách+Khoa+TP.HCM;🚀+Luôn+học+hỏi+mỗi+ngày!" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Kien+Phan!;Fullstack+Developer;Student+at+HCMUT;Always+learning+new+things!" alt="Typing SVG" />
+
 </h1>
 
 ---
