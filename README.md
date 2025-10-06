@@ -1,4 +1,3 @@
-
 <h1 align="center">
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=FF00FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Kien+Phan!;Fullstack+Developer;Student+at+HCMUT;Always+learning+new+things!" alt="Typing SVG" />
 
@@ -58,8 +57,8 @@
 
 ### 🐍 Hoạt động gần đây
 
-![GitHub Snake Light](https://github.com/hokylhoangkien/hokylhoangkien/blob/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://github.com/hokylhoangkien/hokylhoangkien/blob/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![GitHub Snake Light](https://raw.githubusercontent.com/hokylhoangkien/hokylhoangkien/output/dist/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/hokylhoangkien/hokylhoangkien/output/dist/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
 ---
 
