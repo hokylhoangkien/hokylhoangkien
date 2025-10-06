@@ -1,6 +1,6 @@
 <h1 align="center">
   <img 
-    src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Kien+Phan!;💻+Fullstack+Developer;🎓+Student+at+HCMUT;🚀+Always+Learning+New+Things!" 
+    src="https://readme-typing-svg.herokuapp.com/?font=JetBrains+Mono&weight=700&size=26&duration=2500&pause=1000&color=00BFFF&center=true&vCenter=true&width=600&lines=👋+Hi,+I'm+Hoang+Kien+HoKyL!;💻+Fullstack+Developer;🎓+Student+at+HCMUT;🚀+Always+Learning+New+Things!" 
     alt="Typing SVG" 
   />
 </h1>
@@ -11,7 +11,6 @@
 
 - 🎓 Sinh viên **Đại học Bách Khoa - ĐHQG TP.HCM**
 - 💻 Fullstack Developer: đam mê xây dựng **frontend đẹp mắt**, **backend mạnh mẽ**
-- 🌱 Đang học: **Next.js**, **DevOps cơ bản**, **System Design**
 - 🎯 Mục tiêu: Trở thành **Software Engineer chuyên nghiệp**
 - ⚡ Sở thích: Coding, đọc tech blogs, và uống cà phê đêm ☕
 
@@ -61,8 +60,6 @@
 <summary>👀 Click để xem chi tiết</summary>
 
 - 🧮 [**Beautiful Calculator**](https://github.com/hokylhoangkien/Beautiful-Calculator) – Máy tính giao diện đẹp mắt bằng HTML/CSS/JS
-- 🌐 [**Portfolio Website**](#) – Trang cá nhân hiện đại (đang phát triển)
-- ⚙️ [**Node.js API Template**](#) – Template backend nhanh cho các dự án nhỏ
 
 </details>
 
