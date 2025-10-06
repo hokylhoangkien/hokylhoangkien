@@ -60,6 +60,7 @@
 <summary>👀 Click để xem chi tiết</summary>
 
 - 🧮 [**Beautiful Calculator**](https://github.com/hokylhoangkien/Beautiful-Calculator) – Máy tính giao diện đẹp mắt bằng HTML/CSS/JS
+- 💞 [**LoveConnect**](https://github.com/hokylhoangkien/LOVE-COUPLE) – Ứng dụng web tỏ tình lãng mạn bằng HTML/CSS/JS, chạm vân tay để mở khóa “điều kỳ diệu” giữa hai trái tim 💖
 
 </details>
 
