@@ -9,7 +9,7 @@
 
 ### 🧩 Giới thiệu
 
-- 🎓 Sinh viên **Đại học Bách Khoa - ĐHQG TP.HCM**
+- 🎓 Sinh viên **Trường Đại học Bách khoa - ĐHQG TP.HCM**
 - 💻 Fullstack Developer: đam mê xây dựng **frontend đẹp mắt**, **backend mạnh mẽ**
 - 🎯 Mục tiêu: Trở thành **Software Engineer chuyên nghiệp**
 - ⚡ Sở thích: Coding, đọc tech blogs, và uống cà phê đêm ☕
