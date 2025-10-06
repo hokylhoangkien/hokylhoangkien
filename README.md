@@ -57,8 +57,9 @@
 
 ### 🐍 Hoạt động gần đây
 
-![GitHub Snake Light](https://raw.githubusercontent.com/hokylhoangkien/hokylhoangkien/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/hokylhoangkien/hokylhoangkien/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/hokylhoangkien/hokylhoangkien/output/dist/github-contribution-grid-snake.svg" />
+</p>
 
 ---
 
