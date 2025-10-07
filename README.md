@@ -61,7 +61,7 @@
 
 - 🧮 [**Beautiful Calculator**](https://github.com/hokylhoangkien/Beautiful-Calculator) – Máy tính giao diện đẹp mắt bằng HTML/CSS/JS
 - 💞 [**LoveConnect**](https://github.com/hokylhoangkien/LOVE-COUPLE) – Ứng dụng web tỏ tình lãng mạn bằng HTML/CSS/JS, chạm vân tay để mở khóa “điều kỳ diệu” giữa hai trái tim 💖
-
+- 🐾 [**Flappy Animal**](https://github.com/hokylhoangkien/Flappy-Animal) – Game vui nhộn trên trình duyệt bằng HTML/CSS/JS, điều khiển con vật của bạn lọt qua chướng ngại vật, tích điểm để trở thành “cao thủ bay lượn” trong vương quốc động vật
 </details>
 
 ---
