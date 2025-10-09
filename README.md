@@ -27,12 +27,7 @@
   <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
-</p>
-
-<p align="center">
-  <b>Frontend:</b> HTML, CSS, JavaScript (ES6+), ReactJS, TailwindCSS, Vite<br/>
-  <b>Programming Languages:</b> Java, Python<br/>
-  <b>Tools:</b> Git, VS Code, Node.js (runtime for React development)
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
 </p>
 
 ---
