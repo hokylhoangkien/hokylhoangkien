@@ -50,10 +50,9 @@
 <details>
 <summary>👀 Click để xem chi tiết</summary>
 
-- 🧮 [**Beautiful Calculator**](https://github.com/hokylhoangkien/Beautiful-Calculator) – Máy tính giao diện đẹp mắt bằng HTML/CSS/JS
-- 💞 [**LoveConnect**](https://github.com/hokylhoangkien/LOVE-COUPLE) – Ứng dụng web tỏ tình lãng mạn bằng HTML/CSS/JS, chạm vân tay để mở khóa “điều kỳ diệu” giữa hai trái tim 💖
-- 🐾 [**Flappy Animal**](https://github.com/hokylhoangkien/Flappy-Animal) – Game vui nhộn trên trình duyệt bằng HTML/CSS/JS, điều khiển con vật của bạn lọt qua chướng ngại vật, tích điểm để trở thành “cao thủ bay lượn” trong vương quốc động vật
-- 🎨 [**ReactJS-TailwindCSS-UI**](https://github.com/hokylhoangkien/ReactJS-TailwindCSS-UI) Template giao diện web trên trình duyệt bằng ReactJS và TailwindCSS, kết hợp với Framer Motion để tạo hiệu ứng animation mượt mà.
+- [**Second-Hand Land**](https://github.com/hokylhoangkien/second-hand-land) – Nền tảng web mua bán đồ cũ, giúp người dùng đăng tin, tìm kiếm và trao đổi sản phẩm một cách tiện lợi và tiết kiệm chi phí ♻️  
+
+- [**Tutor Support System**](https://github.com/hokylhoangkien/tutor-support-system) – Hệ thống hỗ trợ kết nối tutor–student, quản lý học tập và tương tác trực tuyến, xây dựng bằng web technologies và thiết kế cơ sở dữ liệu bài bản 📚  
 </details>
 
 ---
