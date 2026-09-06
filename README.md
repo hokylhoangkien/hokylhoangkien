@@ -55,7 +55,7 @@
 <details>
 <summary>👀 Click để xem chi tiết</summary>
 
-- [**YOLOHome**](https://github.com/hokylhoangkien/yolohome) – Nền tảng quản lý Smart Home hoàn chỉnh với giao diện điều khiển thiết bị, giám sát môi trường và tự động hóa. Đạt điểm số **9.5/10** môn học. Cấu trúc frontend linh hoạt với ReactJS, Vite và Tailwind CSS.
+- [**YOLOHome**](https://github.com/hokylhoangkien/yolohome-fe) – Nền tảng quản lý Smart Home hoàn chỉnh với giao diện điều khiển thiết bị, giám sát môi trường và tự động hóa. Đạt điểm số **9.5/10** môn học. Cấu trúc frontend linh hoạt với ReactJS, Vite và Tailwind CSS.
 - [**Second-Hand Land**](https://github.com/hokylhoangkien/second-hand-land) – Nền tảng web mua bán đồ cũ, giúp người dùng đăng tin, tìm kiếm và trao đổi sản phẩm một cách tiện lợi. Xây dựng với ReactJS, ExpressJS và MongoDB. Đạt **9.5/10** điểm tổng kết.
 </details>
 
