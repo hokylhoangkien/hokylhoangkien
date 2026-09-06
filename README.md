@@ -23,8 +23,6 @@
 <p align="left">
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /> 
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /> 
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /> 
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" />
   <img src="https://img.shields.io/badge/SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" /> 
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> 
@@ -59,7 +57,6 @@
 
 - [**YOLOHome**](https://github.com/hokylhoangkien/yolohome) – Nền tảng quản lý Smart Home hoàn chỉnh với giao diện điều khiển thiết bị, giám sát môi trường và tự động hóa. Đạt điểm số **9.5/10** môn học. Cấu trúc frontend linh hoạt với ReactJS, Vite và Tailwind CSS.
 - [**Second-Hand Land**](https://github.com/hokylhoangkien/second-hand-land) – Nền tảng web mua bán đồ cũ, giúp người dùng đăng tin, tìm kiếm và trao đổi sản phẩm một cách tiện lợi. Xây dựng với ReactJS, ExpressJS và MongoDB. Đạt **9.5/10** điểm tổng kết.
-- **AquaGuard** – Ứng dụng hỗ trợ ứng phó lũ lụt. Với vai trò Technical Mentor, mình đã thiết kế EERD, hướng dẫn kiến trúc hệ thống (ReactJS & ExpressJS) cho nhóm 7 sinh viên, đưa dự án đến bản MVP với hơn 500 người dùng thử nghiệm.
 </details>
 
 ---
