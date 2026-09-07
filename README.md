@@ -9,7 +9,7 @@
 
 ### 🧩 Giới thiệu
 
-- 🎓 Sinh viên năm 4 ngành **Khoa học Máy tính** tại **Trường Đại học Bách khoa - ĐHQG TP.HCM** (GPA: 3.5/4.0)
+- 🎓 Sinh viên năm 4 ngành **Khoa học Máy tính** tại **Trường Đại học Bách khoa - ĐHQG TP.HCM**
 - 💼 Từng là **Backend Developer Intern** tại **Viettel Solutions**, có kinh nghiệm thực chiến với hệ thống Microservices quy mô lớn.
 - 💻 Kỹ năng: Đam mê xây dựng **backend kiến trúc mở rộng (scalable)** với Java/Spring Boot và phát triển **frontend mượt mà** với ReactJS.
 - 🎯 Mục tiêu: Trở thành **Software Engineer chuyên nghiệp** toàn diện.
